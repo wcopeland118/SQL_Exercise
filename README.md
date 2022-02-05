@@ -1,4 +1,4 @@
-# SQL_Homework
+# Employee Database Exercise
 
 ## Created a Database of employees and related information for Pewlett Hackard
 
